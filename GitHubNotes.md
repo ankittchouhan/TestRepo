@@ -33,7 +33,7 @@
 
 
 
-## Markdown Basics (For GitHub)
+## Markdown
 
 ### Headers
 - Use `#` for headings:
@@ -63,6 +63,12 @@
     print("Hello, World!")
   -```
   ```
+
+
+## GitHub Wikis
+- It is a Website for collabrative content creation and editing.
+- It provides detailed documentation for any repositories functions
+
 
 
 
