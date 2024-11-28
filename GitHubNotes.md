@@ -16,7 +16,6 @@
 ### 2. **Branches**
 - Branches allow you to work on different versions of a project simultaneously.
 - The default branch is typically named `main`.
-- Developers often create new branches for features or bug fixes and later merge them into the main branch.
 
 ### 3. **Commits**
 - Commits are snapshots of your project at a specific point in time.
@@ -24,7 +23,6 @@
 
 ### 4. **Pull Requests**
 - A pull request allows you to propose changes to a repository.
-- Collaborators can review, discuss, and approve changes before merging them into the main branch.
 
 ### 5. **Issues**
 - Issues are used to track bugs, enhancements, or tasks.
