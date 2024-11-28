@@ -66,8 +66,5 @@
   -```
   ```
 
-### Links and Images
-- Links: `[text](URL)`
-- Images: `![alt text](image URL)`
 
 
